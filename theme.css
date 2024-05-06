@@ -21,7 +21,8 @@
 
 	--night: #001402;
   
-	--default-font: "Roboto Mono", serif; /*Code block text*/
+	--default-font: "JetBrains Mono", monospace; 
+	--font-monospace: "JetBrains Mono", monospace;
   
 }
 
